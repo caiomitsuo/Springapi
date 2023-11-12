@@ -16,4 +16,3 @@ create table medicos(
     primary key(id)
 
 );
-
